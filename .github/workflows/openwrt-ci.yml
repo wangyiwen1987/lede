@@ -169,9 +169,13 @@ jobs:
           CONFIG_PACKAGE_luci-app-webadmin=y
           CONFIG_PACKAGE_luci-app-wireguard=y
           CONFIG_PACKAGE_luci-app-wrtbwmon=y
-          
+          CONFIG_PACKAGE_luci-app-aliddns=y
           CONFIG_PACKAGE_luci-app-koolproxyR=y
-          
+          CONFIG_PACKAGE_luci-app-ddns=y
+          CONFIG_PACKAGE_luci-app-p910nd=y
+          CONFIG_PACKAGE_luci-app-splash=y
+          CONFIG_PACKAGE_luci-app-S-S R-plus=y
+          CONFIG_PACKAGE_luci-app-usb-printer=y
           EOF
 
           # LuCI主题:
